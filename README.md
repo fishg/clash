@@ -31,6 +31,7 @@
 - Remote providers, allowing users to get node lists remotely instead of hardcoding in config
 - Netfilter TCP redirecting. Deploy Clash on your Internet gateway with `iptables`.
 - Comprehensive HTTP RESTful API controller
+- Sniffing support request!
 
 ## Getting Started
 Documentations are now moved to [GitHub Wiki](https://github.com/Dreamacro/clash/wiki).
